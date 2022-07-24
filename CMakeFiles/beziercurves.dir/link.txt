@@ -1,0 +1,1 @@
+/sbin/c++ CMakeFiles/beziercurves.dir/src/main.cpp.o -o beziercurves 

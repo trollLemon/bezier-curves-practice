@@ -1,0 +1,3 @@
+/home/haydn/Github/bezier-curves-practice/CMakeFiles/SDL2Test.dir
+/home/haydn/Github/bezier-curves-practice/CMakeFiles/edit_cache.dir
+/home/haydn/Github/bezier-curves-practice/CMakeFiles/rebuild_cache.dir
